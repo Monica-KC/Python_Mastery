@@ -1,4 +1,4 @@
-# Python_Mastery: Intermediate to Advanced Concepts
+# Python_Mastery : Intermediate to Advanced Concepts
 
 Welcome to my personal Python learning repository! This repo is a reflection of my deep dive into **Python programming**. It's designed both as a **knowledge base** and a **hands-on reference** for topics that go beyond the basics — everything I use in real-world projects, technical interviews, and day-to-day development.
 
